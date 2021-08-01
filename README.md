@@ -3,7 +3,7 @@
 
 I am a Server Engineer
 
-I am interested in SpringFramework and DevOps. I love coding, learning and coding! 
+I am interested in Spring Framework and DevOps. I love coding, learning and coding! 
 
  
 ### Work Experience
