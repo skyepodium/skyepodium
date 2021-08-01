@@ -1,16 +1,22 @@
- [![Skyepodium's github stats](https://github-readme-stats.vercel.app/api?username=skyepodium&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**skyepodium/skyepodium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Jungyoon Kim! 😃
 
-Here are some ideas to get you started:
+I am a Server Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in SpringFramework and DevOps. I love coding, learning and coding! 
+
+ 
+### Work Experience
+- **Samsung SDS** Server Engineer *(July 2018 ~)*
+  
+### Interested in
+- Spring Framework
+- DevOps
+- Cloud Computing
+
+<img src="https://github-readme-stats.vercel.app/api?username=skyepodium&theme=nightowl&show_icons=true" align="left" style="width: 50%" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyepodium&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 50%" />
+
+
