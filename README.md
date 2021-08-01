@@ -16,7 +16,3 @@ I am interested in SpringFramework and DevOps. I love coding, learning and codin
 
 <img src="https://github-readme-stats.vercel.app/api?username=skyepodium&theme=nightowl&show_icons=true" align="left" style="width: 50%" />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyepodium&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 50%" />
-
-
