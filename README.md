@@ -7,7 +7,8 @@ I am interested in Spring Framework and DevOps. I love communicating, learning a
 
  
 ### Work Experience
-- **Samsung SDS** FullStack Engineer *(July 2018 ~)*
+- **NAVER** FrontEnd Enginner *(May 2022 ~)*
+- **Samsung SDS** FullStack Engineer *(July 2018 ~ April 2022)*
   
 ### Interested in
 - Spring Framework
