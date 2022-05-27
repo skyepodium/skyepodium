@@ -1,7 +1,7 @@
 
 ### Hello, I'm Jungyoon Kim! 😃
 
-I am a FullStack Engineer
+I am a FrontEnd Engineer
 
 I am interested in Spring Framework and DevOps. I love communicating, learning and coding! 
 
